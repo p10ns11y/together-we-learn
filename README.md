@@ -16,10 +16,10 @@ We will follow these [Learning stragtegy](https://cte.tamu.edu/getattachment/Gra
 
 #### Courses
 
-- :computer: [beginnerjavascript](https://beginnerjavascript.com/) by [Wes Bos](https://wesbos.com/)
-<a href="https://twitter.com/wesbos">
+- :computer: [beginnerjavascript](https://beginnerjavascript.com/) by [Wes Bos](https://wesbos.com/) <a href="https://twitter.com/wesbos">
   <img alt="Wesbos | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 - :computer: [javascript30](https://javascript30.com/)
 - :green_book: [justjavascript](https://justjavascript.com/)
 
