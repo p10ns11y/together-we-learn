@@ -20,10 +20,12 @@ We will follow these [Learning stragtegy](https://cte.tamu.edu/getattachment/Gra
   <img alt="Wesbos | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-- :computer: [javascript30](https://javascript30.com/)
+- :computer: [javascript30](https://javascript30.com/) by Wes Bos
 - :green_book: [justjavascript](https://justjavascript.com/)
 
 
 ### HTML foundation
 
 ### CSS foundation
+
+### Notable developers
